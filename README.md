@@ -68,18 +68,18 @@ Los _opcodes_ y códigos de función de las instrucciones pueden encontrarse por
 |Hex     |Tipo|_op_  |_rs_ |_rt_ |_rd_ |_shamt_|_funct_|_imm_           |Comentarios|
 |--------|----|------|-----|-----|-----|-------|-------|----------------|---|
 |34020004|I   |001101|00000|00010|NA   |NA     |NA     |0000000000000100|\#1|
-|        |I    |      |     |     |     |       |       |                |   |
+|        |I    |      |     |     |NA     |NA       |NA       |                |   |
 |        |R    |      |     |     |     |       |       |                |   |
-|        |I    |      |     |     |     |       |       |                |   |
-|        |I    |      |     |     |     |       |       |                |   |
-|        |I    |      |     |     |     |       |       |                |   |
-|        |I    |      |     |     |     |       |       |                |   |
+|        |I    |      |     |     |NA     |NA       |NA       |                |   |
+|        |I    |      |     |     |NA     |NA       |NA       |                |   |
+|        |I    |      |     |     |NA     |NA       |NA       |                |   |
+|        |I    |      |     |     |NA     |NA       |NA       |                |   |
 |        |R    |      |     |     |     |       |       |                |   |
-|        |I    |      |     |     |     |       |       |                |   |
+|        |I    |      |     |     |NA     |NA       |NA       |                |   |
 |        |R    |      |     |     |     |       |       |                |   |
-|        |I    |      |     |     |     |       |       |                |   |
+|        |I    |      |     |     |NA     |NA       |NA       |                |   |
 |        |R    |      |     |     |     |       |       |                |   |
-|        |I    |      |     |     |     |       |       |                |   |
+|        |I    |      |     |     |NA     |NA       |NA       |                |   |
 |        |R    |      |     |     |     |       |       |                |   |
 
 ### Comentarios
