@@ -69,18 +69,18 @@ Los _opcodes_ y códigos de función de las instrucciones pueden encontrarse por
 |--------|----|------|-----|-----|-----|-------|-------|----------------|---|
 |34020004|I   |001101|00000|00010|NA   |NA     |NA     |0000000000000100|\#1|
 |        |I    |      |     |     |NA     |NA       |NA       |                |   |
-|        |R    |      |     |     |     |       |       |                |   |
+|        |R    |      |     |     |     |       |       |NA                |   |
 |        |I    |      |     |     |NA     |NA       |NA       |                |   |
 |        |I    |      |     |     |NA     |NA       |NA       |                |   |
 |        |I    |      |     |     |NA     |NA       |NA       |                |   |
 |        |I    |      |     |     |NA     |NA       |NA       |                |   |
-|        |R    |      |     |     |     |       |       |                |   |
+|        |R    |      |     |     |     |       |       |NA                |   |
 |        |I    |      |     |     |NA     |NA       |NA       |                |   |
-|        |R    |      |     |     |     |       |       |                |   |
+|        |R    |      |     |     |     |       |       |NA                |   |
 |        |I    |      |     |     |NA     |NA       |NA       |                |   |
-|        |R    |      |     |     |     |       |       |                |   |
+|        |R    |      |     |     |     |       |       |NA                |   |
 |        |I    |      |     |     |NA     |NA       |NA       |                |   |
-|        |R    |      |     |     |     |       |       |                |   |
+|        |R    |      |     |     |     |       |       |NA                |   |
 
 ### Comentarios
 
