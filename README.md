@@ -76,10 +76,10 @@ Los _opcodes_ y códigos de función de las instrucciones pueden encontrarse por
 |8d0e0004|I   |100011      |     |     |NA     |NA       |NA       |                |   |
 |01ae9020|R   |      |     |     |     |       |100000       |NA                |   |
 |22520005|I   |001001      |     |     |NA     |NA       |NA       |                |   |
-|        |R   |      |     |     |     |       |100001       |NA                |   |
-|        |I   |001101      |     |     |NA     |NA       |NA       |                |   |
+|00122021|R   |      |     |     |     |       |100001       |NA                |   |
+|34020001|I   |001101      |     |     |NA     |NA       |NA       |                |   |
 |0000000c|R   |      |     |     |     |       |001100       |NA                |   |
-|        |I   |001101      |     |     |NA     |NA       |NA       |                |   |
+|3402000a|I   |001101      |     |     |NA     |NA       |NA       |                |   |
 |0000000c|R   |      |     |     |     |       |001100       |NA                |   |
 
 ### Comentarios
